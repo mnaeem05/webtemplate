@@ -12,6 +12,10 @@
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         text-decoration: none;
         text-shadow: papayawhip;
+        cursor: pointer;
+}
+#box01:hover{
+    color: purple;
 }
 .box03{
     width: 1400px;
